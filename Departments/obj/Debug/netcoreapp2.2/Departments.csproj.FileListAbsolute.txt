@@ -1,0 +1,14 @@
+C:\Users\Stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.2\Departments.deps.json
+C:\Users\Stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.2\Departments.runtimeconfig.json
+C:\Users\Stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.2\Departments.runtimeconfig.dev.json
+C:\Users\Stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.2\Departments.dll
+C:\Users\Stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.2\Departments.pdb
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.csproj.CoreCompileInputs.cache
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.RazorAssemblyInfo.cache
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.RazorAssemblyInfo.cs
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.AssemblyInfoInputs.cache
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.AssemblyInfo.cs
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.RazorTargetAssemblyInfo.cache
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.dll
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.pdb
+C:\Users\Stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.2\Departments.csprojResolveAssemblyReference.cache

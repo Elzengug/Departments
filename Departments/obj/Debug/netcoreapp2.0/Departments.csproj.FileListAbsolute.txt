@@ -1,0 +1,11 @@
+c:\users\stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.0\Departments.deps.json
+c:\users\stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.0\Departments.runtimeconfig.json
+c:\users\stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.0\Departments.runtimeconfig.dev.json
+c:\users\stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.0\Departments.dll
+c:\users\stas\source\repos\Departments\Departments\bin\Debug\netcoreapp2.0\Departments.pdb
+c:\users\stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.0\Departments.csprojResolveAssemblyReference.cache
+c:\users\stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.0\Departments.csproj.CoreCompileInputs.cache
+c:\users\stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.0\Departments.AssemblyInfoInputs.cache
+c:\users\stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.0\Departments.AssemblyInfo.cs
+c:\users\stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.0\Departments.dll
+c:\users\stas\source\repos\Departments\Departments\obj\Debug\netcoreapp2.0\Departments.pdb
